@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Deep</string>
+    <string name="wherez_button">Wherez?</string>
+    <string name="settings_title">Location Privacy Settings</string>
+    <string name="share_prompt">Your friends can only see the selected detail:</string>
+    <string name="not_sharing">Not Sharing Location</string>
+    <string name="coordinates_label">Coordinates</string>
+    <string name="street_address_label">Street Address</string>
+    <string name="street_name_label">Street Name Only</string>
+    <string name="city_state_label">City and State</string>
+    <string name="state_label">State Only</string>
+    <string name="zip_label">Zip Code</string>
+    <string name="country_label">Country</string>
+    <string name="county_label">County</string>
+    <string name="locality_label">Locality</string>
+    <string name="none_label">None (Hidden)</string>
+</resources>
