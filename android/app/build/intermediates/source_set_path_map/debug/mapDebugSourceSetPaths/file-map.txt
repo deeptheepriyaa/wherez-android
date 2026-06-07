@@ -1,0 +1,56 @@
+com.example.deep.app-ui-text-release-0 C:\Users\mrnde\.gradle\caches\8.9\transforms\0e744757f2855577e036c5e7c3fea92a\transformed\ui-text-release\res
+com.example.deep.app-profileinstaller-1.3.1-1 C:\Users\mrnde\.gradle\caches\8.9\transforms\17a8c4d4593a0f4b1d51221c71685a03\transformed\profileinstaller-1.3.1\res
+com.example.deep.app-core-1.15.0-2 C:\Users\mrnde\.gradle\caches\8.9\transforms\1f2a036998357334c5c6b3651c272b25\transformed\core-1.15.0\res
+com.example.deep.app-ui-test-manifest-1.7.6-3 C:\Users\mrnde\.gradle\caches\8.9\transforms\1fd8b777180ec20d2f10f7d0344e6d68\transformed\ui-test-manifest-1.7.6\res
+com.example.deep.app-lifecycle-livedata-core-2.8.7-4 C:\Users\mrnde\.gradle\caches\8.9\transforms\28ab2edfe55678d9e0121f2012e3af06\transformed\lifecycle-livedata-core-2.8.7\res
+com.example.deep.app-tracing-1.2.0-5 C:\Users\mrnde\.gradle\caches\8.9\transforms\298fcfeb63addf4ac8703603436ba6aa\transformed\tracing-1.2.0\res
+com.example.deep.app-activity-ktx-1.9.3-6 C:\Users\mrnde\.gradle\caches\8.9\transforms\2bdd6394ac8cf6597dd5fe1d36e836c1\transformed\activity-ktx-1.9.3\res
+com.example.deep.app-ui-tooling-data-release-7 C:\Users\mrnde\.gradle\caches\8.9\transforms\331fa6659e554eac65dcb2d318af7ed2\transformed\ui-tooling-data-release\res
+com.example.deep.app-runtime-release-8 C:\Users\mrnde\.gradle\caches\8.9\transforms\34d47ed496d6a6c24330d3b9c8f8c8fc\transformed\runtime-release\res
+com.example.deep.app-animation-release-9 C:\Users\mrnde\.gradle\caches\8.9\transforms\45eb0cec4bc3f4ae3ceabef73912f071\transformed\animation-release\res
+com.example.deep.app-savedstate-1.2.1-10 C:\Users\mrnde\.gradle\caches\8.9\transforms\486feacd2b7a50ff25fabc847f0162e3\transformed\savedstate-1.2.1\res
+com.example.deep.app-ui-graphics-release-11 C:\Users\mrnde\.gradle\caches\8.9\transforms\49ddc59cfab003e74a35ae005f24c530\transformed\ui-graphics-release\res
+com.example.deep.app-foundation-release-12 C:\Users\mrnde\.gradle\caches\8.9\transforms\4a3473b38240894a244e2bd1d7e97ece\transformed\foundation-release\res
+com.example.deep.app-lifecycle-livedata-2.8.7-13 C:\Users\mrnde\.gradle\caches\8.9\transforms\4a84923211a3dfbbbc58066ce210585c\transformed\lifecycle-livedata-2.8.7\res
+com.example.deep.app-core-runtime-2.2.0-14 C:\Users\mrnde\.gradle\caches\8.9\transforms\51e02930cdf3d3002a6650837ebf725f\transformed\core-runtime-2.2.0\res
+com.example.deep.app-emoji2-1.3.0-15 C:\Users\mrnde\.gradle\caches\8.9\transforms\59c820cd67b7b76e206cf4d64ac7a20c\transformed\emoji2-1.3.0\res
+com.example.deep.app-lifecycle-runtime-compose-release-16 C:\Users\mrnde\.gradle\caches\8.9\transforms\5ef9adc225b71fec13cb57ea9dff754a\transformed\lifecycle-runtime-compose-release\res
+com.example.deep.app-play-services-basement-18.4.0-17 C:\Users\mrnde\.gradle\caches\8.9\transforms\68354d89e623558deb9be9adc0d25829\transformed\play-services-basement-18.4.0\res
+com.example.deep.app-foundation-layout-release-18 C:\Users\mrnde\.gradle\caches\8.9\transforms\6bb4fc39c9a070100c75e2ba1814b55e\transformed\foundation-layout-release\res
+com.example.deep.app-ui-unit-release-19 C:\Users\mrnde\.gradle\caches\8.9\transforms\744177f8a7a876ed38346e3ac4514b49\transformed\ui-unit-release\res
+com.example.deep.app-lifecycle-viewmodel-savedstate-2.8.7-20 C:\Users\mrnde\.gradle\caches\8.9\transforms\7863a6f0f51e1e76d84f61af233ede81\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.example.deep.app-activity-compose-1.9.3-21 C:\Users\mrnde\.gradle\caches\8.9\transforms\79a2adaaad790d1b64a0f7d35aa2ceb0\transformed\activity-compose-1.9.3\res
+com.example.deep.app-animation-core-release-22 C:\Users\mrnde\.gradle\caches\8.9\transforms\7afd8d85b366c0763b531b3d9c4f23d2\transformed\animation-core-release\res
+com.example.deep.app-ui-release-23 C:\Users\mrnde\.gradle\caches\8.9\transforms\8848fbd608d97095a0522ad82b2c91f7\transformed\ui-release\res
+com.example.deep.app-osmdroid-android-6.1.18-24 C:\Users\mrnde\.gradle\caches\8.9\transforms\8c6ea8fc1a654252481924eb9e53aa03\transformed\osmdroid-android-6.1.18\res
+com.example.deep.app-runtime-saveable-release-25 C:\Users\mrnde\.gradle\caches\8.9\transforms\91c4c26403b1e1dde265e797995e78ac\transformed\runtime-saveable-release\res
+com.example.deep.app-annotation-experimental-1.4.1-26 C:\Users\mrnde\.gradle\caches\8.9\transforms\94b3462743c863e1c361a19332391412\transformed\annotation-experimental-1.4.1\res
+com.example.deep.app-lifecycle-runtime-ktx-release-27 C:\Users\mrnde\.gradle\caches\8.9\transforms\987efe78cff965187412f848a3ef0424\transformed\lifecycle-runtime-ktx-release\res
+com.example.deep.app-customview-poolingcontainer-1.0.0-28 C:\Users\mrnde\.gradle\caches\8.9\transforms\9b5b3a64a4ac038509e25aed0d44ee94\transformed\customview-poolingcontainer-1.0.0\res
+com.example.deep.app-lifecycle-runtime-release-29 C:\Users\mrnde\.gradle\caches\8.9\transforms\a0a4e9e61547cffb18f31f2a95c25594\transformed\lifecycle-runtime-release\res
+com.example.deep.app-savedstate-ktx-1.2.1-30 C:\Users\mrnde\.gradle\caches\8.9\transforms\a61a3ee8fef7382a33041eb19401bbd6\transformed\savedstate-ktx-1.2.1\res
+com.example.deep.app-material-ripple-release-31 C:\Users\mrnde\.gradle\caches\8.9\transforms\a8464c839186f028531d1cdb24d2c0ab\transformed\material-ripple-release\res
+com.example.deep.app-activity-1.9.3-32 C:\Users\mrnde\.gradle\caches\8.9\transforms\aaa4db40d218f31930519da619fc5414\transformed\activity-1.9.3\res
+com.example.deep.app-material3-release-33 C:\Users\mrnde\.gradle\caches\8.9\transforms\aaaabfab6c6e09cf1077e4e65fd4ec30\transformed\material3-release\res
+com.example.deep.app-graphics-path-1.0.1-34 C:\Users\mrnde\.gradle\caches\8.9\transforms\aefe50f9dbef10c4808d655be86feb9e\transformed\graphics-path-1.0.1\res
+com.example.deep.app-material-icons-core-release-35 C:\Users\mrnde\.gradle\caches\8.9\transforms\ba818433d129769a30e3a6fda796ffbf\transformed\material-icons-core-release\res
+com.example.deep.app-material-icons-extended-release-36 C:\Users\mrnde\.gradle\caches\8.9\transforms\bd3a6f0dba26994a22cfd92ed7f62a75\transformed\material-icons-extended-release\res
+com.example.deep.app-lifecycle-viewmodel-ktx-2.8.7-37 C:\Users\mrnde\.gradle\caches\8.9\transforms\be856393e0e01ce509bd577248ae9f99\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.example.deep.app-lifecycle-viewmodel-release-38 C:\Users\mrnde\.gradle\caches\8.9\transforms\c8f32245ab58d9c4d591bd01905b85a7\transformed\lifecycle-viewmodel-release\res
+com.example.deep.app-lifecycle-process-2.8.7-39 C:\Users\mrnde\.gradle\caches\8.9\transforms\cad9d410b278d518609f1f8450354b2c\transformed\lifecycle-process-2.8.7\res
+com.example.deep.app-ui-geometry-release-40 C:\Users\mrnde\.gradle\caches\8.9\transforms\cd433bce8b3009da1a22e67820110011\transformed\ui-geometry-release\res
+com.example.deep.app-core-ktx-1.15.0-41 C:\Users\mrnde\.gradle\caches\8.9\transforms\cdb7bad7bd0c336aa6c49789bf617df9\transformed\core-ktx-1.15.0\res
+com.example.deep.app-startup-runtime-1.1.1-42 C:\Users\mrnde\.gradle\caches\8.9\transforms\d02a5f38a296a04a378dd8fed4eb9c54\transformed\startup-runtime-1.1.1\res
+com.example.deep.app-play-services-base-18.5.0-43 C:\Users\mrnde\.gradle\caches\8.9\transforms\d7c249457e1b5104697479cdfb59cabb\transformed\play-services-base-18.5.0\res
+com.example.deep.app-ui-util-release-44 C:\Users\mrnde\.gradle\caches\8.9\transforms\eacee0be0ea9019c9b6702dc2dc02dcd\transformed\ui-util-release\res
+com.example.deep.app-ui-tooling-release-45 C:\Users\mrnde\.gradle\caches\8.9\transforms\ed9fd509636f03ff1200ff11f6ca75f7\transformed\ui-tooling-release\res
+com.example.deep.app-ui-tooling-preview-release-46 C:\Users\mrnde\.gradle\caches\8.9\transforms\f562b7232abac88822c405fd5f5c579b\transformed\ui-tooling-preview-release\res
+com.example.deep.app-material-release-47 C:\Users\mrnde\.gradle\caches\8.9\transforms\f5f64ff7bf0f2981089514753c392e90\transformed\material-release\res
+com.example.deep.app-lifecycle-livedata-core-ktx-2.8.7-48 C:\Users\mrnde\.gradle\caches\8.9\transforms\f85372f4d50cb938a4276b656c929ef4\transformed\lifecycle-livedata-core-ktx-2.8.7\res
+com.example.deep.app-pngs-49 C:\Users\mrnde\OneDrive\Desktop\june 2026\project\wherez-complete\android\app\build\generated\res\pngs\debug
+com.example.deep.app-resValues-50 C:\Users\mrnde\OneDrive\Desktop\june 2026\project\wherez-complete\android\app\build\generated\res\resValues\debug
+com.example.deep.app-packageDebugResources-51 C:\Users\mrnde\OneDrive\Desktop\june 2026\project\wherez-complete\android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.deep.app-packageDebugResources-52 C:\Users\mrnde\OneDrive\Desktop\june 2026\project\wherez-complete\android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.deep.app-debug-53 C:\Users\mrnde\OneDrive\Desktop\june 2026\project\wherez-complete\android\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.deep.app-debug-54 C:\Users\mrnde\OneDrive\Desktop\june 2026\project\wherez-complete\android\app\src\debug\res
+com.example.deep.app-main-55 C:\Users\mrnde\OneDrive\Desktop\june 2026\project\wherez-complete\android\app\src\main\res
